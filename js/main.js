@@ -3,7 +3,7 @@ const Services = [
         id : 1,
         title : "Lighting Design",
         descrpation : "Achieve the perfect balance of ambient, task, and accent lighting for a functional atmosphere",
-        image : "../pictures/LightingDesignIcon.png"
+        image : "./pictures/LightingDesignIcon.png"
     },
     {
         id : 2,
