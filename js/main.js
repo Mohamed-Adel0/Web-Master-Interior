@@ -9,13 +9,13 @@ const Services = [
         id : 2,
         title : "Interior Design",
         descrpation : "From concept to completion, we oversee every detail to bring your vision to life efficiently",
-        image : "../pictures/InteriorDesignIcon.png"
+        image : "./pictures/InteriorDesignIcon.png"
     },
     {
         id : 3,
         title : "Outdoor Design",
         descrpation : "Celebrate the changing seasons with our seasonal outdoor decor services",
-        image : "../pictures/OutdoorDesignIcon.png"
+        image : "./pictures/OutdoorDesignIcon.png"
     },
 ]
 const ThreeSteps =[
@@ -23,19 +23,19 @@ const ThreeSteps =[
         id : 1,
         title : "Start Project",
         descrpation : "Embark on your design adventure by initiating your project. Share your vision and set the stage for a bespoke design experience",
-        image : "../pictures/iconTravel.png"
+        image : "./pictures/iconTravel.png"
     },
     {
         id : 2,
         title : "Craft",
         descrpation : "Collaborate closely to achieve design excellence refining your vision and crafting brilliance into every aspect of your space",
-        image : "../pictures/Light.png"
+        image : "./pictures/Light.png"
     },
     {
         id : 3,
         title : "Execute",
         descrpation : "Witness your vision becoming a reality as we execute the design plan with precision. Celebrate the joy of your newly transformed space",
-        image : "../pictures/Right.png"
+        image : "./pictures/Right.png"
     },
 ]
 const FecthData = (e)=>{
