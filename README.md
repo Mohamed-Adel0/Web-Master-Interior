@@ -1,7 +1,7 @@
 This project is a training task from Web-Master company, where I converted a Figma design into a fully functional web page using HTML, CSS, JavaScript, and Tailwind CSS. The goal was to enhance my front-end development skills and work with Tailwind CSS efficiently. 
 
 During the process, I focused on ensuring responsiveness and maintaining a pixel-perfect design.  
-You can check out the live website through this link: [Your Link Here].  
+You can check out the live website through this link: https://mohamed-adel0.github.io/Web-Master-Interior/.  
 
 To run the project locally:  
 1. Clone the repository  
